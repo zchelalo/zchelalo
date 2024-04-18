@@ -10,11 +10,15 @@
   <a href = "mailto: eduardosaavedra687@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 <hr />
+
 - 👨‍💻 Estoy trabajando en el desarrollo de distintos proyectos personales/escolares/laborales 🥸
 - 📚 Actualmente estoy aprendiendo Go/Golang, estoy muy entusiasmado con el lenguaje :D
 - 💪🏼 Objetivos futuros: Aprender nuevas tecnologías y desarrollar nuevos proyectos, me gustaría aprender mas sobre algoritmos y dominar de arriba a abajo la POO
 - ⚡ Fun fact: Me encantan los videojuegos, de todo un poco. Aunque tengo preferencias por los shooters 🫡
-<img align="right" alt="GIF" height="170px" src="https://tenor.com/es/view/dancing-rainbow-anime-girl-gif-17186819" />
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
 <!--
 **zchelalo/zchelalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
