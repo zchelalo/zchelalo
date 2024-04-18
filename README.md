@@ -10,7 +10,7 @@
 </p>
 <hr />
   
-<img align="right" alt="GIF" width="110px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
+<img align="right" alt="GIF" width="150px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
 <h3>
   Un poco sobre mí
