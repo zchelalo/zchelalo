@@ -25,8 +25,8 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zchelalo&show_icons=true&locale=es&layout=compact" alt="zchelalo" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zchelalo&show_icons=true&locale=es" alt="zchelalo" width="395" /></p>
+<p><img height="165" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zchelalo&show_icons=true&locale=es&layout=compact" alt="zchelalo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zchelalo&show_icons=true&locale=es" alt="zchelalo" height="165" /></p>
 
 
 <!--
