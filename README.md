@@ -51,7 +51,7 @@
 
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
-![Postgres](http://img.shields.io/badge/-Postgres-white?style=flat-square&logo=postgres)
+![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
