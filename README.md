@@ -5,6 +5,8 @@
   Dentro de un año me graduo como Ingeriero de desarrollo y gestión de software multiplataforma.
   Soy un entusiasta de la programación, disfruto mucho el codificar y aprender cosas nuevas.
   Soy amigable, aunque tímido, me pueden contactar en:
+</p>
+<p align="center">
   <a href = "mailto: eduardosaavedra687@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
