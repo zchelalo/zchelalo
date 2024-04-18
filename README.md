@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Chelalo >.<</h1>
 <h2 align="center">Desarrollador de software</h3>
 <p align="center">
-  Dentro de un año me graduo como Ingeriero de desarrollo y gestión de software multiplataforma.
-  Soy un entusiasta de la programación, disfruto mucho el codificar y aprender cosas nuevas.
+  Dentro de un año me graduo como Ingeriero de desarrollo y gestión de software multiplataforma.<br />
+  Soy un entusiasta de la programación, disfruto mucho el codificar y aprender cosas nuevas.<br />
   Soy amigable, aunque tímido, me pueden contactar en:
 </p>
 <p align="center">
