@@ -12,11 +12,12 @@
   
 <img align="right" alt="GIF" width="170px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
-- 👨‍💻 Trabajo en el desarrollo de proyectos personales/escolares/laborales 🥸
+- 👨‍💻 Trabajo en distintos proyectos personales/escolares/laborales 🥸
 - 📚 Estoy aprendiendo Go/Golang, estoy muy entusiasmado con el lenguaje :D
+- 💪🏼 Objetivos a futuro: Aprender mas sobre algoritos y dominar la POO
 - ⚡ Me encantan los videojuegos. Actualmente estoy jugando Zelda BOTW 🫡
 
-
+<hr />
 
 <!--
 **zchelalo/zchelalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
