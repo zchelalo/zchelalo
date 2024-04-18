@@ -13,9 +13,9 @@
 <img align="right" alt="GIF" width="150px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
 <h3>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
   &nbsp;&nbsp;Un poco sobre mí&nbsp;&nbsp;
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 </h3>
 
 - 👨‍💻 Trabajo en distintos proyectos personales/escolares/laborales 🥸
@@ -34,9 +34,9 @@
 <hr />
 
 <h3>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
   &nbsp;&nbsp;Github stats&nbsp;&nbsp;
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 </h3>
 
 <p><img height="165" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zchelalo&show_icons=true&locale=es&layout=compact" alt="zchelalo" /></p>
