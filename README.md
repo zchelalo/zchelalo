@@ -10,7 +10,7 @@
 </p>
 <hr />
   
-<img align="right" alt="GIF" width="100px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
+<img align="right" alt="GIF" width="120px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
 - 👨‍💻 Trabajo en distintos proyectos personales/escolares/laborales 🥸
 - 📚 Estoy aprendiendo Go/Golang, estoy muy entusiasmado con el lenguaje :D
