@@ -14,6 +14,8 @@
 - 📚 Estoy aprendiendo Go/Golang, estoy muy entusiasmado con el lenguaje :D
 - ⚡ Me encantan los videojuegos. Actualmente estoy jugando Zelda BOTW 🫡
 
+---
+
 <img align="right" alt="GIF" height="170px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
 
