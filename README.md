@@ -43,6 +43,7 @@
 ![Fastapi](http://img.shields.io/badge/-Fastapi-white?style=flat-square&logo=fastapi&logoColor=black)
 ![React](http://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=black)
 ![Laravel](http://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel&logoColor=black)
+![Express](http://img.shields.io/badge/-Express-white?style=flat-square&logo=express&logoColor=black)
 
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
