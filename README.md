@@ -27,7 +27,15 @@
 
 <h3>
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-  &nbsp;&nbsp;Github Stats&nbsp;&nbsp;
+  &nbsp;&nbsp;Lenguajes y tecnologías&nbsp;&nbsp;
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+</h3>
+
+<hr />
+
+<h3>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+  &nbsp;&nbsp;Github stats&nbsp;&nbsp;
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 </h3>
 
