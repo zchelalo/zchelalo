@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
+<img align="right" alt="GIF" width="170px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
 
 <!--
