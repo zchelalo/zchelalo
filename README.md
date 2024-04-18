@@ -40,7 +40,9 @@
 ![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 
-![Flask](http://img.shields.io/badge/-Fastapi-white?style=flat-square&logo=fastapi&logoColor=black)
+![Fastapi](http://img.shields.io/badge/-Fastapi-white?style=flat-square&logo=fastapi&logoColor=black)
+![React](http://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=black)
+![Laravel](http://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel&logoColor=black)
 
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
