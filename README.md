@@ -9,14 +9,13 @@
   <a href = "mailto: eduardosaavedra687@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 <hr />
+  
+<img align="right" alt="GIF" width="170px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
 - 👨‍💻 Trabajo en el desarrollo de proyectos personales/escolares/laborales 🥸
 - 📚 Estoy aprendiendo Go/Golang, estoy muy entusiasmado con el lenguaje :D
 - ⚡ Me encantan los videojuegos. Actualmente estoy jugando Zelda BOTW 🫡
 
----
-
-<img align="right" alt="GIF" width="170px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
 
 <!--
