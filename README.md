@@ -14,7 +14,7 @@
 
 <h3>
   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-  Un poco sobre mí
+  &nbsp;&nbsp;Un poco sobre mí&nbsp;&nbsp;
   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 </h3>
 
@@ -26,9 +26,9 @@
 <hr />
 
 <h3>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
   &nbsp;&nbsp;Github Stats&nbsp;&nbsp;
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 </h3>
 
 <p><img height="165" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zchelalo&show_icons=true&locale=es&layout=compact" alt="zchelalo" /></p>
