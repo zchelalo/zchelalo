@@ -1,11 +1,11 @@
-<h1 align="center">Hola, soy Chelalo >.<</h1>
-<h2 align="center">Desarrollador de software</h3>
-<p align="center">
+<h1 align="left">Hola, soy Chelalo >.<</h1>
+<h2 align="left">Desarrollador de software</h3>
+<p align="left">
   Dentro de un año me graduo como Ingeniero de desarrollo y gestión de software multiplataforma.<br />
   Soy un entusiasta de la programación, disfruto mucho el codificar y aprender cosas nuevas.<br />
   Soy amigable, aunque tímido, me pueden contactar en:
 </p>
-<p align="center">
+<p align="left">
   <a href = "mailto: eduardosaavedra687@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 <hr />
