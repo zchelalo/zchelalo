@@ -70,4 +70,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zchelalo&show_icons=true&locale=es" alt="zchelalo" height="165" /></p>
 
 <hr />
-Última actualización: 17/04/2024
+<br />
+<small>Última actualización: 17/04/2024</small>
