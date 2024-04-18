@@ -54,9 +54,6 @@
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
-![Pip](http://img.shields.io/badge/-Pip-white?style=flat-square&logo=pip&logoColor=white)
-![Composer](http://img.shields.io/badge/-Composer-white?style=flat-square&logo=composer&logoColor=white)
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
