@@ -1,5 +1,4 @@
 <h1 align="center">Hola, soy Chelalo >.<</h1>
-<hr />
 <h2 align="center">Desarrollador de software</h3>
 <p align="center">
   Dentro de un año me graduo como Ingeniero de desarrollo y gestión de software multiplataforma.<br />
