@@ -19,11 +19,9 @@
 
 <hr />
 
-### Spotify Playing 🎧
+### Github Stats 🎧
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/lq38mipt30f358irm1br5vu8r)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zchelalo&show_icons=true&locale=es&layout=compact" alt="zchelalo" /></p>
 
 
 <!--
