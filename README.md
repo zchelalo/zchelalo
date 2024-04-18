@@ -12,6 +12,10 @@
   
 <img align="right" alt="GIF" width="110px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
+<h3>
+  Un poco sobre mí
+</h3>
+
 - 👨‍💻 Trabajo en distintos proyectos personales/escolares/laborales 🥸
 - 📚 Estoy aprendiendo Go/Golang, estoy muy entusiasmado con el lenguaje :D
 - 💪🏼 Objetivos a futuro: Aprender mas sobre algoritos y dominar la POO
