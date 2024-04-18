@@ -1,4 +1,5 @@
 <h1 align="center">Hola, soy Chelalo >.<</h1>
+<hr />
 <h2 align="center">Desarrollador de software</h3>
 <p align="center">
   Dentro de un año me graduo como Ingeniero de desarrollo y gestión de software multiplataforma.<br />
@@ -21,7 +22,7 @@
 - 👨‍💻 Trabajo en distintos proyectos personales/escolares/laborales 🥸
 - 📚 Estoy aprendiendo Go/Golang, estoy muy entusiasmado con el lenguaje :D
 - 💪🏼 Objetivos a futuro: Aprender mas sobre algoritos y dominar la POO
-- ⚡ Me encantan los videojuegos. Actualmente estoy jugando Zelda BOTW 🫡
+- ⚡ Me encantan los videojuegos y el anime. Actualmente estoy jugando Zelda BOTW 🫡
 
 <hr />
 
