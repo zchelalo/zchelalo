@@ -13,7 +13,9 @@
 <img align="right" alt="GIF" width="150px" src="https://media.tenor.com/uIUxxg8ZbnkAAAAi/dancing-rainbow.gif" />
 
 <h3>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
   Un poco sobre mí
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 </h3>
 
 - 👨‍💻 Trabajo en distintos proyectos personales/escolares/laborales 🥸
