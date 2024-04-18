@@ -19,9 +19,12 @@
 
 <hr />
 
-### Github Stats 🎧
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+<h3>Github Stats</h3>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zchelalo&show_icons=true&locale=es&layout=compact" alt="zchelalo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zchelalo&show_icons=true&locale=es" alt="zchelalo" width="410" /></p>
 
 
 <!--
