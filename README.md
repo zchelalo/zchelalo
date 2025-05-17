@@ -63,4 +63,4 @@
 
 <hr />
 <br />
-<small>Última actualización: 17/05/2025</small>
+<small>Last update: 17/05/2025</small>
